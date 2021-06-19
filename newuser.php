@@ -8,7 +8,7 @@
     $result=mysqli_query($conn,$sql);
     if($result){
                echo "<script> alert('Congratulations! Your Account was Created.');
-                               window.location='transfermoney.php';
+                               window.location='TransferMoney.php';
                      </script>";
                     
     }
@@ -46,7 +46,7 @@
     <nav class="navbar navbar-default">
         <div class="container-fluid">
             <div class="navbar-header">
-                <a class="navbar-brand" href="home.php">Sparks<span class="main-color">Bank</span></a>
+                <a class="navbar-brand" href="index.php">Sparks<span class="main-color">Bank</span></a>
             </div>
         </div>
     </nav>
@@ -81,7 +81,7 @@ input[type=text]:focus {
         </div>
 
         <div class="form-group">
-            <label for="">email(): </label>
+            <label for="">Email(): </label>
             <input type="text" class="form-control" name="email" id="email" placeholder="Enter email">
         </div>
 

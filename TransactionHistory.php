@@ -13,7 +13,7 @@
 <nav class="navbar navbar-default">
         <div class="container-fluid">
             <div class="navbar-header">
-                <a class="navbar-brand" href="home.php">Sparks<span class="main-color">Bank</span></a>
+                <a class="navbar-brand" href="index.php">Sparks<span class="main-color">Bank</span></a>
             </div>
         </div>
     </nav>

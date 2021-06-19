@@ -21,8 +21,6 @@ SET time_zone = "+00:00";
 -- Database: `sparks_bank`
 --
 
-CREATE DATABASE IF NOT EXISTS `sparksbank` DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
-USE `sparksbank`;
 -- --------------------------------------------------------
 
 --

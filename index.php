@@ -22,7 +22,7 @@
         </div>
       
       <ul class="categories">
-        <li><i class="fa fa-home fa-fw" aria-hidden="true"></i><a href="#"> About us</a>
+        <li><i class="fa fa-home fa-fw" aria-hidden="true"></i><a href="about.html"> About us</a>
           <ul class="side-nav-dropdown">
             
           </ul>
