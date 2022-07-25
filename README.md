@@ -1,4 +1,4 @@
-# MayurKukreja - Web-Developer at TSF
+# PHP Project - Banking Website
 SparksBank:
 Sparks Foundation Web Development Internship Project : Basic Banking System website
 
